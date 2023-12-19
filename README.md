@@ -3,7 +3,11 @@
 Lenguajes a contener:
 
 ° python
+
 ° java: springboot
+
 ° javascript: react, node js, express, axios
+
 ° base de datos relacionales: MySQL SQLite
+
  
