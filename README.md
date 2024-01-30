@@ -1,13 +1,3 @@
-# Proyectos
- Repositorio con una serie de proyectos que encotraré interesante
-Lenguajes a contener:
-
-° python
-
-° java: SpringBoot
-
-° javascript: React, Node js, Express, Axios
-
-° Bases de datos: SQLite, SQL Server
-
+# TOP Creacion the una pagina a travez de dos imagenes
+En este recurso usaremos dos imagenes a disposicion que revelan como se debe ver y algunos aspectos del estilo
  
