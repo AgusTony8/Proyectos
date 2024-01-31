@@ -50,6 +50,7 @@ body{
 }
 #btn{
     background-color: #3882F6;
+    cursor: pointer;
     font-weight: lighter;
     font-size: 18px;
     color: #E5E7EB;
